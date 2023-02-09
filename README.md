@@ -15,4 +15,4 @@
 ## Önemli: Proje MIT lisansına sahiptir ve projenin dosyalarının izin alınmadan paylaşılması, satılması  veya benzeri durumlar kesinlikle yasaktır. Böyle bir durumun yaşanması sonucunda bundan sorumlu şahıs(lar)a gerekli işlemler yapılacaktır!
 
 # ⚡ İletişim
-<img src:"https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" ! `Kerem#1111
+<img src:"https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"> ! `Kerem#1111
