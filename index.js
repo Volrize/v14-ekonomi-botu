@@ -101,6 +101,6 @@ if (interaction.customId == "telefon") {
 	if (para < 40000) return interaction.reply("Malesef bakiyeniz yetmiyor!")
 	db.substr(`para_${interaction.user.id}`, 40000)
 	  db.set(`telefon_${interaction.user.id}`, "Var")
-  interaction.reply(`<@${interaction.user.id}> Başarıyla İphone 14 Pro aldıp yedin!`)
+  interaction.reply(`<@${interaction.user.id}> Başarıyla İphone 14 Pro aldın!`)
 }
 })
