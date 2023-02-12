@@ -1,13 +1,13 @@
 {
-  "name": "discordjs-v14-bot-template",
+  "name": "ekobot",
   "version": "14.0.0",
-  "description": "A Discord Bot template built by T.F.A#7524!",
+  "description": "Volrize ekonomi botu",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "T.F.A#7524",
+  "author": "Volrize",
   "license": "ISC",
   "dependencies": {
     "colors": "^1.4.0",
